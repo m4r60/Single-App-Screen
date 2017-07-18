@@ -1,2 +1,2 @@
-# Single-App-Screen
-Single App Screen Resubmitted
+# Single-Screen-App
+Single Screen App Resubmitted
